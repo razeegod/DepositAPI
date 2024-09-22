@@ -13,7 +13,7 @@ DepositAPI - это API для расчета депозита по вкладу
 
 ```bash
 git clone https://github.com/razeegod/DepositAPI.git
-cd DepositAPI
+cd depositapi
  ```
 
 2. Установите зависимости с помощью Poetry:
